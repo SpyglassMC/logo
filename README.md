@@ -1,14 +1,13 @@
 # Logo
 
 ```
-https://raw.githubusercontent.com/SPYGlassMC/logo/main/banner.png
-https://raw.githubusercontent.com/SPYGlassMC/logo/main/favicon.ico
-https://raw.githubusercontent.com/SPYGlassMC/logo/main/icon.png
-https://raw.githubusercontent.com/SPYGlassMC/logo/main/icon.svg
+https://raw.githubusercontent.com/SpyglassMC/logo/main/${FILE_NAME}
 ```
 
-Copyright (c) 2020 [BlackNight0315][BlackNight0315]
+The original "Datapack Helper Plus" logo and the "telescope" logo were created by [BlackNight0315][BlackNight0315].
 
-All rights reserved.
+The current "spyglass" logo was provided by [asd988][asd988] in [#929 (comment)][comment].
 
+[asd988]: https://github.com/asd988
 [BlackNight0315]: https://github.com/BlackNight0315
+[comment]: https://github.com/SpyglassMC/Spyglass/issues/929#issuecomment-1100884322
